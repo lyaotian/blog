@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Your title</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Your title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aplayer</title>
+      <link>https://example.com/tags/aplayer/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://example.com/tags/aplayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://example.com/tags/test/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://example.com/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://example.com/tags/css/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>https://example.com/tags/html/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://example.com/tags/markdown/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://example.com/tags/themes/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>https://example.com/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoji</title>
+      <link>https://example.com/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cjk</title>
+      <link>https://example.com/tags/cjk/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0800</pubDate>
+      
+      <guid>https://example.com/tags/cjk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wtf</title>
+      <link>https://example.com/tags/wtf/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0800</pubDate>
+      
+      <guid>https://example.com/tags/wtf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cascading stylesheets</title>
+      <link>https://example.com/tags/cascading-stylesheets/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/cascading-stylesheets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excessive tags</title>
+      <link>https://example.com/tags/excessive-tags/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/excessive-tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fuji theme tests</title>
+      <link>https://example.com/tags/fuji-theme-tests/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/fuji-theme-tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypertext markup language</title>
+      <link>https://example.com/tags/hypertext-markup-language/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/hypertext-markup-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tags</title>
+      <link>https://example.com/tags/tags/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://example.com/tags/hugo/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://example.com/tags/configuration/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://example.com/tags/development/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docs</title>
+      <link>https://example.com/tags/docs/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/docs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>https://example.com/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://example.com/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://example.com/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://example.com/tags/tutorial/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jekyll</title>
+      <link>https://example.com/tags/jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/jekyll/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

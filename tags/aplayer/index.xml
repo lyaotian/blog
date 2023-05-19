@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aplayer on Your title</title>
+    <link>https://example.com/tags/aplayer/</link>
+    <description>Recent content in aplayer on Your title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://example.com/tags/aplayer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In-post APlayer Test</title>
+      <link>https://example.com/post/aplayer-test/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://example.com/post/aplayer-test/</guid>
+      <description>aplayer test </description>
+    </item>
+    
+  </channel>
+</rss>
